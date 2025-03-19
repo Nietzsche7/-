@@ -1,0 +1,5 @@
+requests
+ujson
+websocket-client
+aiohttp
+beautifulsoup4
